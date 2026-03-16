@@ -23,4 +23,4 @@ Interactive dashboard showing:
 
 ## Dashboard Preview
 
-![Sales Dashboard](dashboard_preview.png)
+![Dashboard](images/dashboard_preview.png)
