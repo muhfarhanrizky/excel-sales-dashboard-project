@@ -20,3 +20,7 @@ Interactive dashboard showing:
 - Sales by customer id, product, and product category
 - Sales by state
 - Monthly trends
+
+## Dashboard Preview
+
+![Sales Dashboard](dashboard_preview.png)
